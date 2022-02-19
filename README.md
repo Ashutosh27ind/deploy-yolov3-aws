@@ -1,5 +1,5 @@
 # deploy-yolo-aws
-This repository contains code for YOLO v3 Object detection and hosting the same on AWS     
+This repository contains code for YOLO v3 Object detection and hosting the same on AWS (IaaS)   
    
 Amazon Web Services (AWS) is Amazon’s cloud web hosting platform offering compute power, storage, database, migration and lot many other functionalities 
 that helps in building scalable, reliable, flexible and cost-effective solutions.  
